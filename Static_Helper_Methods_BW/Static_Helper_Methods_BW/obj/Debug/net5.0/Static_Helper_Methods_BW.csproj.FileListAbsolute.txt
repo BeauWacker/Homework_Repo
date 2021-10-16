@@ -1,0 +1,16 @@
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\bin\Debug\net5.0\Static_Helper_Methods_BW.exe
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\bin\Debug\net5.0\Static_Helper_Methods_BW.deps.json
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\bin\Debug\net5.0\Static_Helper_Methods_BW.runtimeconfig.json
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\bin\Debug\net5.0\Static_Helper_Methods_BW.runtimeconfig.dev.json
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\bin\Debug\net5.0\Static_Helper_Methods_BW.dll
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\bin\Debug\net5.0\ref\Static_Helper_Methods_BW.dll
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\bin\Debug\net5.0\Static_Helper_Methods_BW.pdb
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.csproj.AssemblyReference.cache
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.AssemblyInfoInputs.cache
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.AssemblyInfo.cs
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.csproj.CoreCompileInputs.cache
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.dll
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\ref\Static_Helper_Methods_BW.dll
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.pdb
+C:\Users\milli\source\repos\gitrepo\Static_Helper_Methods_BW\Static_Helper_Methods_BW\obj\Debug\net5.0\Static_Helper_Methods_BW.genruntimeconfig.cache
