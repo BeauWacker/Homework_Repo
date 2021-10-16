@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PE_For_Loops_BW/1.0.0": {
+        "runtime": {
+          "PE_For_Loops_BW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PE_For_Loops_BW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
