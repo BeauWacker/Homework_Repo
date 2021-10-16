@@ -1,0 +1,16 @@
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\bin\Debug\net5.0\Ifs_And_Switches_BW.exe
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\bin\Debug\net5.0\Ifs_And_Switches_BW.deps.json
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\bin\Debug\net5.0\Ifs_And_Switches_BW.runtimeconfig.json
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\bin\Debug\net5.0\Ifs_And_Switches_BW.runtimeconfig.dev.json
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\bin\Debug\net5.0\Ifs_And_Switches_BW.dll
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\bin\Debug\net5.0\ref\Ifs_And_Switches_BW.dll
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\bin\Debug\net5.0\Ifs_And_Switches_BW.pdb
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.AssemblyInfoInputs.cache
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.AssemblyInfo.cs
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.csproj.CoreCompileInputs.cache
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.dll
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\ref\Ifs_And_Switches_BW.dll
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.pdb
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.genruntimeconfig.cache
+C:\Users\milli\source\repos\gitrepo\Ifs_And_Switches_BW\Ifs_And_Switches_BW\obj\Debug\net5.0\Ifs_And_Switches_BW.csproj.AssemblyReference.cache
