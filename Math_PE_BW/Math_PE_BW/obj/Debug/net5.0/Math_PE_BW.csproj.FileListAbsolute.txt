@@ -1,0 +1,16 @@
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\bin\Debug\net5.0\Math_PE_BW.exe
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\bin\Debug\net5.0\Math_PE_BW.deps.json
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\bin\Debug\net5.0\Math_PE_BW.runtimeconfig.json
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\bin\Debug\net5.0\Math_PE_BW.runtimeconfig.dev.json
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\bin\Debug\net5.0\Math_PE_BW.dll
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\bin\Debug\net5.0\ref\Math_PE_BW.dll
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\bin\Debug\net5.0\Math_PE_BW.pdb
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.csproj.AssemblyReference.cache
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.AssemblyInfoInputs.cache
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.AssemblyInfo.cs
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.csproj.CoreCompileInputs.cache
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.dll
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\ref\Math_PE_BW.dll
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.pdb
+C:\Users\milli\source\repos\Math_PE_BW\Math_PE_BW\obj\Debug\net5.0\Math_PE_BW.genruntimeconfig.cache
