@@ -1,0 +1,16 @@
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\bin\Debug\net5.0\PE_While_Loops_BW.exe
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\bin\Debug\net5.0\PE_While_Loops_BW.deps.json
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\bin\Debug\net5.0\PE_While_Loops_BW.runtimeconfig.json
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\bin\Debug\net5.0\PE_While_Loops_BW.runtimeconfig.dev.json
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\bin\Debug\net5.0\PE_While_Loops_BW.dll
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\bin\Debug\net5.0\ref\PE_While_Loops_BW.dll
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\bin\Debug\net5.0\PE_While_Loops_BW.pdb
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.csproj.AssemblyReference.cache
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.AssemblyInfoInputs.cache
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.AssemblyInfo.cs
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.csproj.CoreCompileInputs.cache
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.dll
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\ref\PE_While_Loops_BW.dll
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.pdb
+C:\Users\milli\source\repos\gitrepo\PE_While_Loops_BW\obj\Debug\net5.0\PE_While_Loops_BW.genruntimeconfig.cache
